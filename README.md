@@ -1,0 +1,2 @@
+# AdminPaneliFromSandbox
+Created with CodeSandbox
